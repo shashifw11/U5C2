@@ -1,5 +1,16 @@
 {
-    "houses" :[
-        
-    ]
+  "houses": [
+    {
+      "name": "Shashi Kumar",
+      "ownerName": "vipin",
+      "address": "",
+      "areaCode": "800001",
+      "rent": "yes",
+      "preferredTenant": "on",
+      "bachelor": "",
+      "married": "",
+      "Addresh": "c/o ram lal saw chriyantand postalprark",
+      "id": 1
+    }
+  ]
 }

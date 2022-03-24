@@ -27,7 +27,19 @@
 .App-link {
   color: #61dafb;
 }
-
+ .table{
+  border : 1px solid black ;
+  background-color: #282c34;
+  margin: auto;
+ } 
+ th{
+    border : 2px solid black ;
+    background-color: aquamarine;
+ } 
+  td{
+    border : 2px solid red;
+    background-color: aqua;
+  }
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
